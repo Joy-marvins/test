@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">呆萌</string>
+    <string name="title_home">权限</string>
+    <string name="title_dashboard">行为</string>
+    <string name="title_notifications">事件</string>
+    <string name="title_result">日志</string>
+</resources>
